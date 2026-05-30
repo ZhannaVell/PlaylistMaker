@@ -32,7 +32,7 @@
 
     </LinearLayout>
 
-    <!-- Тёмная тема (Switch) -->
+    <!-- Тёмная тема  -->
     <LinearLayout
         style="@style/SettingsItem"
         android:layout_marginTop="@dimen/margin_top_first_item"
